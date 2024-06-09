@@ -1,0 +1,54 @@
+/* Arrière-plan principal */
+body {
+    background-color: #E5DDC8;
+    color: #004369;
+    font-family: Arial, sans-serif;
+}
+
+/* Couleur des titres et en-têtes */
+h1, h2, h3, h4, h5, h6 {
+    color: #004369;
+}
+
+/* Couleur des liens et des boutons principaux */
+a, .btn-primary {
+    color: #E5DDC8;
+    background-color: #01949A;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+/* Arrière-plan de la barre de navigation */
+.navbar {
+    background-color: #004369;
+    padding: 10px;
+}
+
+/* Notifications et alertes */
+.alert {
+    color: #E5DDC8;
+    background-color: #DB1F48;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+/* Boutons secondaires */
+.btn-secondary {
+    color: #E5DDC8;
+    background-color: #004369;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+/* Éléments interactifs */
+.btn-primary:hover, .btn-secondary:hover {
+    opacity: 0.8;
+}
+
+/* Texte principal */
+p {
+    color: #004369;
+}
