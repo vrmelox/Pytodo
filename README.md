@@ -1,0 +1,1 @@
+I decided to start this project on June 09, 2024. Pytodo aims to create a complete website to help students control their project, divide it into several tasks and follow all the steps to complete it on time.
